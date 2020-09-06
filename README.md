@@ -10,3 +10,5 @@ Also see: https://quantmd.shinyapps.io/visualizeCorona/ ; A COVID19 tracker app 
 Email me at prahlad.menon@quant.md to be subscribed to my automated daily email bot summarizing stats and WHO situation reports for your country and state (if in the US).
 
 #covid19news #covid19us #coronavirus
+
+This repository is no longer being updated.
